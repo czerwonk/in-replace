@@ -1,0 +1,6 @@
+files:
+  - path: "tests/test.html"
+    replacements:
+      - regex: "href='([^']+)'"
+        replacement: "test"
+        group: 1

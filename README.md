@@ -1,5 +1,8 @@
 # in-replace
-multi platform inplace replacer
+[![Build Status](https://travis-ci.org/czerwonk/in-replace.svg)](https://travis-ci.org/czerwonk/in-replace)
+[![Go Report Card](https://goreportcard.com/badge/github.com/czerwonk/in-replace)](https://goreportcard.com/report/github.com/czerwonk/in-replace)
+
+simple multi platform inplace replacer
 
 ## Installation
 ```bash
